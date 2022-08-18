@@ -9,6 +9,7 @@ This project was made from scratch in 48 hours. user can change product layout a
 //TODO
 1) Select shoe size and add to cart
 2) Add many soes from same type
+3) Use shared Preferences to load cart list when app loading
 
 ## How to Use 
 
